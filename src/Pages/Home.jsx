@@ -1,15 +1,31 @@
-import React, {  } from "react";
+import React, { useEffect, useState } from "react";
 import hero from "../assets/hero.png";
 import playLogo from "../assets/playLogo.png";
 import appStoreLogo from "../assets/appStoreLogo.png";
 import Loader from "../Compoments/Loader";
+import { useNavigate } from "react-router";
+import AppCard from "../Compoments/AppCard";
 
 const Home = () => {
+  const navigate = useNavigate();
+  const [loading, setLoading] = useState(true);
+  const [apps, setApps] = useState([]);
 
+  useEffect(() => {
+    fetch("/data.json")
+      .then((res) => res.json())
+      .then((data) => {
+        setApps(data);
+        setLoading(false);
+      })
+      .catch(() => setLoading(false));
+  }, []);
+
+  if (loading) return <Loader />;
 
   return (
     <div className="min-h-screen bg-gray-50">
-      <section className=" border-2 border-red-600 pt-10 md:pt-20">
+      <section className=" pt-10 md:pt-20">
         <div className=" max-w-8xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h1 className="text-4xl sm:text-5xl md:text-7xl font-bold text-gray-900 mb-4">
             We Build <br /> <span className="text-purple-600">Productive</span>{" "}
@@ -26,8 +42,7 @@ const Home = () => {
                 href="https://play.google.com/store/apps"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="bg-white text-black px-4 py-3 rounded-lg border border-gray-300 hover:bg-gray-50 transition-colors flex items-center space-x-3"
-              >
+                className="bg-white text-black px-4 py-3 rounded-lg border border-gray-300 hover:bg-gray-50 transition-colors flex items-center space-x-3">
                 <img src={playLogo} className="h-6 w-6" alt="" />
                 <span className="font-medium">Google Play</span>
               </a>
@@ -36,8 +51,7 @@ const Home = () => {
                 href="https://apps.apple.com/us/app"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="bg-white text-black px-6 py-3 rounded-lg border border-gray-300 hover:bg-gray-50 transition-colors flex items-center space-x-3"
-              >
+                className="bg-white text-black px-6 py-3 rounded-lg border border-gray-300 hover:bg-gray-50 transition-colors flex items-center space-x-3">
                 <img src={appStoreLogo} className="h-7 w-7" alt="" />
                 <span className="font-medium">App Store</span>
               </a>
@@ -54,15 +68,13 @@ const Home = () => {
         </div>
       </section>
 
-
       <section
         className="py-12 md:py-16"
         style={{
           background: "linear-gradient(215deg, #8146e3 0%, #6e6afb 100%)",
-        }}
-      >
+        }}>
         <div className="max-w-6xl mx-auto px-4 sm:px-8">
-          <h2 className="text-3xl md:text-5xl font-semibold text-white text-center mb-2 tracking-tight">
+          <h2 className="text-3xl md:text-5xl font-medium text-white text-center mb-2 tracking-tight">
             Trusted By Millions, Built For You
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-3">
@@ -104,6 +116,34 @@ const Home = () => {
         </div>
       </section>
 
+      <section className="py-16 ">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="text-center mb-12">
+            <h2 className="text-3xl font-bold text-gray-900 mb-2">
+              Trending Apps
+            </h2>
+            <p className="text-gray-600">
+              Explore All Trending Apps on the Market developed by us
+            </p>
+          </div>
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 mb-8">
+            {apps.slice(0, 8).map((app) => (
+              <AppCard
+                key={app.id}
+                app={app}
+                onClick={() => navigate(`/app/${app.id}`)}
+              />
+            ))}
+          </div>
+          <div className="text-center">
+            <button
+              onClick={() => navigate("/apps")}
+              className="bg-purple-600 text-white px-8 py-3 rounded-lg hover:bg-purple-700 transition-colors">
+              Show All
+            </button>
+          </div>
+        </div>
+      </section>
     </div>
   );
 };

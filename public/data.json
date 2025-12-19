@@ -1,0 +1,506 @@
+[
+  {
+    "id": 1,
+    "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "Netflix",
+    "companyName": "Netflix, Inc.",
+    "description": "Watch TV shows and movies anytime, anywhere. Stream unlimited entertainment with personalized recommendations. Enjoy award-winning series, films, documentaries, and more on thousands of devices.",
+    "size": 412,
+    "reviews": 8500000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000,
+    "ratings": [
+      { "name": "1 star", "count": 185000 },
+      { "name": "2 star", "count": 425000 },
+      { "name": "3 star", "count": 1275000 },
+      { "name": "4 star", "count": 2975000 },
+      { "name": "5 star", "count": 3640000 }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "https://images.unsplash.com/photo-1662070479020-73f77887c87c?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1154",
+    "title": "Facebook",
+    "companyName": "Meta Platforms, Inc.",
+    "description": "Connect with friends, family and people who share the same interests as you. Share photos, videos, and stories. Join communities and discover new content that matters to you.",
+    "size": 398,
+    "reviews": 12000000,
+    "ratingAvg": 3.9,
+    "downloads": 50000000,
+    "ratings": [
+      { "name": "1 star", "count": 1800000 },
+      { "name": "2 star", "count": 2400000 },
+      { "name": "3 star", "count": 2400000 },
+      { "name": "4 star", "count": 3000000 },
+      { "name": "5 star", "count": 2400000 }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "https://images.unsplash.com/photo-1611262588024-d12430b98920?w=300&h=300&fit=crop",
+    "title": "Instagram",
+    "companyName": "Meta Platforms, Inc.",
+    "description": "Create and share your photos, stories, and videos with the friends and followers you care about. Connect with friends, share what you're up to, or see what's new from others all over the world.",
+    "size": 367,
+    "reviews": 15000000,
+    "ratingAvg": 4.4,
+    "downloads": 50000000,
+    "ratings": [
+      { "name": "1 star", "count": 900000 },
+      { "name": "2 star", "count": 1350000 },
+      { "name": "3 star", "count": 2250000 },
+      { "name": "4 star", "count": 4500000 },
+      { "name": "5 star", "count": 6000000 }
+    ]
+  },
+  {
+    "id": 4,
+    "image": "https://images.unsplash.com/photo-1611605698323-b1e99cfd37ea?w=300&h=300&fit=crop",
+    "title": "TikTok",
+    "companyName": "ByteDance Ltd.",
+    "description": "TikTok is THE destination for mobile videos. Watch endless amount of amazing short videos all personalized for you. From your morning coffee to your afternoon errands, TikTok has the videos that are guaranteed to make your day.",
+    "size": 445,
+    "reviews": 18000000,
+    "ratingAvg": 4.6,
+    "downloads": 3000000,
+    "ratings": [
+      { "name": "1 star", "count": 720000 },
+      { "name": "2 star", "count": 1080000 },
+      { "name": "3 star", "count": 2520000 },
+      { "name": "4 star", "count": 5400000 },
+      { "name": "5 star", "count": 8280000 }
+    ]
+  },
+  {
+    "id": 5,
+    "image": "https://images.unsplash.com/photo-1611162616475-46b635cb6868?w=300&h=300&fit=crop",
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "description": "Get the official YouTube app on Android phones and tablets. See what the world is watching -- from the hottest music videos to what's popular in gaming, fashion, beauty, news, learning and more.",
+    "size": 489,
+    "reviews": 22000000,
+    "ratingAvg": 4.2,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 2200000 },
+      { "name": "2 star", "count": 2860000 },
+      { "name": "3 star", "count": 4400000 },
+      { "name": "4 star", "count": 6600000 },
+      { "name": "5 star", "count": 5940000 }
+    ]
+  },
+  {
+    "id": 6,
+    "image": "https://images.unsplash.com/photo-1611162617263-4ec3060a058e?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1074",
+    "title": "Snapchat",
+    "companyName": "Snap Inc.",
+    "description": "Snapchat is the most fun way to share the moment! Express yourself with Lenses, Filters, Bitmoji and more! Try out new Lenses daily created by the Snapchat community!",
+    "size": 423,
+    "reviews": 9500000,
+    "ratingAvg": 4.3,
+    "downloads": 1000000,
+    "ratings": [
+      { "name": "1 star", "count": 950000 },
+      { "name": "2 star", "count": 1235000 },
+      { "name": "3 star", "count": 1900000 },
+      { "name": "4 star", "count": 2850000 },
+      { "name": "5 star", "count": 2565000 }
+    ]
+  },
+  {
+    "id": 7,
+    "image": "https://images.unsplash.com/photo-1614680376593-902f74cf0d41?w=300&h=300&fit=crop",
+    "title": "Spotify: Music and Podcasts",
+    "companyName": "Spotify AB",
+    "description": "Discover new music, albums, and podcasts. Play millions of songs and podcasts for free. Create your own playlists and enjoy music and podcasts you love with Spotify.",
+    "size": 378,
+    "reviews": 11000000,
+    "ratingAvg": 4.5,
+    "downloads": 700000,
+    "ratings": [
+      { "name": "1 star", "count": 660000 },
+      { "name": "2 star", "count": 990000 },
+      { "name": "3 star", "count": 1650000 },
+      { "name": "4 star", "count": 3850000 },
+      { "name": "5 star", "count": 3850000 }
+    ]
+  },
+  {
+    "id": 8,
+    "image": "https://images.unsplash.com/photo-1661862649743-2799867c32b0?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1154",
+    "title": "WhatsApp Messenger",
+    "companyName": "Meta Platforms, Inc.",
+    "description": "Simple. Reliable. Private. WhatsApp is free and offers simple, secure, reliable messaging and calling, available on phones all over the world. Connect with your friends and family. Stay in touch no matter where you are.",
+    "size": 345,
+    "reviews": 16000000,
+    "ratingAvg": 4.3,
+    "downloads": 50000000,
+    "ratings": [
+      { "name": "1 star", "count": 1600000 },
+      { "name": "2 star", "count": 1920000 },
+      { "name": "3 star", "count": 2880000 },
+      { "name": "4 star", "count": 4800000 },
+      { "name": "5 star", "count": 4800000 }
+    ]
+  },
+  {
+    "id": 9,
+    "image": "https://images.unsplash.com/photo-1637592156979-95f44c286423?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1213",
+    "title": "Telegram",
+    "companyName": "Telegram FZ-LLC",
+    "description": "Pure instant messaging — simple, fast, secure, and synced across all your devices. Telegram has over 700 million monthly active users and is one of the top downloaded apps worldwide.",
+    "size": 298,
+    "reviews": 8900000,
+    "ratingAvg": 4.6,
+    "downloads": 1000000,
+    "ratings": [
+      { "name": "1 star", "count": 445000 },
+      { "name": "2 star", "count": 712000 },
+      { "name": "3 star", "count": 1335000 },
+      { "name": "4 star", "count": 3116000 },
+      { "name": "5 star", "count": 3292000 }
+    ]
+  },
+  {
+    "id": 10,
+    "image": "https://images.unsplash.com/photo-1690138871287-02b2fc3b87c2?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170",
+    "title": "X (formerly Twitter)",
+    "companyName": "X Corp.",
+    "description": "From breaking news and entertainment to sports, politics, and everyday interests, when it happens in the world, it happens on X. Join the global conversation and see what people are talking about.",
+    "size": 334,
+    "reviews": 7200000,
+    "ratingAvg": 3.8,
+    "downloads": 500000,
+    "ratings": [
+      { "name": "1 star", "count": 1152000 },
+      { "name": "2 star", "count": 1440000 },
+      { "name": "3 star", "count": 1728000 },
+      { "name": "4 star", "count": 1800000 },
+      { "name": "5 star", "count": 1080000 }
+    ]
+  },
+  {
+    "id": 11,
+    "image": "https://images.unsplash.com/photo-1683029096295-7680306aa37d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1332",
+    "title": "Discord - Talk, Chat, Hangout",
+    "companyName": "Discord Inc.",
+    "description": "Whether you're part of a school club, gaming group, worldwide art community, or just a handful of friends that want to spend time together, Discord makes it easy to talk every day and hang out more often.",
+    "size": 412,
+    "reviews": 6800000,
+    "ratingAvg": 4.4,
+    "downloads": 500000,
+    "ratings": [
+      { "name": "1 star", "count": 408000 },
+      { "name": "2 star", "count": 680000 },
+      { "name": "3 star", "count": 1224000 },
+      { "name": "4 star", "count": 2380000 },
+      { "name": "5 star", "count": 2108000 }
+    ]
+  },
+  {
+    "id": 12,
+    "image": "https://images.unsplash.com/photo-1636044594149-6e2f289c3868?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170",
+    "title": "Pinterest",
+    "companyName": "Pinterest, Inc.",
+    "description": "Discover recipes, home ideas, style inspiration and other ideas to try. Pinterest helps you discover and do what you love. Find inspiration for your next meal, outfit, home project and more.",
+    "size": 289,
+    "reviews": 5600000,
+    "ratingAvg": 4.5,
+    "downloads": 50000,
+    "ratings": [
+      { "name": "1 star", "count": 336000 },
+      { "name": "2 star", "count": 504000 },
+      { "name": "3 star", "count": 840000 },
+      { "name": "4 star", "count": 1960000 },
+      { "name": "5 star", "count": 1960000 }
+    ]
+  },
+  {
+    "id": 13,
+    "image": "https://images.unsplash.com/photo-1729830114379-4c3dfe391a74?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1074",
+    "title": "Twitch: Live Game Streaming",
+    "companyName": "Twitch Interactive, Inc.",
+    "description": "Watch and chat now with millions of other fans from around the world. See live streams of games, music, sports, and more on Twitch. Join the community and watch your favorite streamers.",
+    "size": 456,
+    "reviews": 4200000,
+    "ratingAvg": 4.3,
+    "downloads": 90000,
+    "ratings": [
+      { "name": "1 star", "count": 294000 },
+      { "name": "2 star", "count": 378000 },
+      { "name": "3 star", "count": 630000 },
+      { "name": "4 star", "count": 1260000 },
+      { "name": "5 star", "count": 1638000 }
+    ]
+  },
+  {
+    "id": 14,
+    "image": "https://images.unsplash.com/photo-1616509091215-57bbece93654?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1074",
+    "title": "Reddit",
+    "companyName": "Reddit Inc.",
+    "description": "Reddit is a network of communities where people can dive into their interests, hobbies and passions. There's a community for whatever you're interested in on Reddit. Join the conversation and discover trending topics.",
+    "size": 367,
+    "reviews": 3800000,
+    "ratingAvg": 4.2,
+    "downloads": 10000,
+    "ratings": [
+      { "name": "1 star", "count": 380000 },
+      { "name": "2 star", "count": 456000 },
+      { "name": "3 star", "count": 684000 },
+      { "name": "4 star", "count": 1140000 },
+      { "name": "5 star", "count": 1140000 }
+    ]
+  },
+  {
+    "id": 15,
+    "image": "https://images.unsplash.com/photo-1611944212129-29977ae1398c?w=300&h=300&fit=crop",
+    "title": "LinkedIn: Jobs & Business News",
+    "companyName": "LinkedIn Corporation",
+    "description": "Welcome professionals! The key to getting in is getting started. Connect with colleagues, discover career opportunities, and access news, insights, and ideas all in one place.",
+    "size": 401,
+    "reviews": 4500000,
+    "ratingAvg": 4.4,
+    "downloads": 50000,
+    "ratings": [
+      { "name": "1 star", "count": 270000 },
+      { "name": "2 star", "count": 405000 },
+      { "name": "3 star", "count": 675000 },
+      { "name": "4 star", "count": 1575000 },
+      { "name": "5 star", "count": 1575000 }
+    ]
+  },
+  {
+    "id": 16,
+    "image": "https://images.unsplash.com/photo-1661269124571-63a0a342277d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1154",
+    "title": "Messenger",
+    "companyName": "Meta Platforms, Inc.",
+    "description": "Instantly reach the people in your life—for free. Messenger is just like texting, but you don't have to pay for every message. Send photos, videos, GIFs, and more to friends and family.",
+    "size": 312,
+    "reviews": 9200000,
+    "ratingAvg": 4.1,
+    "downloads": 50000000,
+    "ratings": [
+      { "name": "1 star", "count": 1380000 },
+      { "name": "2 star", "count": 1656000 },
+      { "name": "3 star", "count": 1840000 },
+      { "name": "4 star", "count": 2760000 },
+      { "name": "5 star", "count": 1564000 }
+    ]
+  },
+  {
+    "id": 17,
+    "image": "https://images.unsplash.com/photo-1688712645033-38bc029d8d44?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1332",
+    "title": "Threads, an Instagram app",
+    "companyName": "Meta Platforms, Inc.",
+    "description": "Say more with Threads — Instagram's text-based conversation app. Threads is where communities come together to discuss everything from the topics you care about today to what'll be trending tomorrow.",
+    "size": 278,
+    "reviews": 2100000,
+    "ratingAvg": 4.0,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 252000 },
+      { "name": "2 star", "count": 294000 },
+      { "name": "3 star", "count": 420000 },
+      { "name": "4 star", "count": 630000 },
+      { "name": "5 star", "count": 504000 }
+    ]
+  },
+  {
+    "id": 18,
+    "image": "https://images.unsplash.com/photo-1678329886668-6f44024b9ae6?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1228",
+    "title": "WeChat",
+    "companyName": "Tencent Technology Company",
+    "description": "WeChat is more than a messaging and social media app – it is a lifestyle for over one billion users across the world. Chat and make calls with friends, read news and use local services.",
+    "size": 423,
+    "reviews": 5800000,
+    "ratingAvg": 4.1,
+    "downloads": 100000,
+    "ratings": [
+      { "name": "1 star", "count": 696000 },
+      { "name": "2 star", "count": 812000 },
+      { "name": "3 star", "count": 1160000 },
+      { "name": "4 star", "count": 1740000 },
+      { "name": "5 star", "count": 1392000 }
+    ]
+  },
+  {
+    "id": 19,
+    "image": "https://images.unsplash.com/photo-1683007002429-deabf420bbe5?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1332",
+    "title": "ZOOM Cloud Meetings",
+    "companyName": "Zoom Video Communications",
+    "description": "Stay connected wherever you go – start or join a secure meeting with flawless video, clear audio, instant screen sharing, and cross-platform instant messaging.",
+    "size": 389,
+    "reviews": 6700000,
+    "ratingAvg": 4.4,
+    "downloads": 500000,
+    "ratings": [
+      { "name": "1 star", "count": 402000 },
+      { "name": "2 star", "count": 603000 },
+      { "name": "3 star", "count": 1005000 },
+      { "name": "4 star", "count": 2345000 },
+      { "name": "5 star", "count": 2345000 }
+    ]
+  },
+  {
+    "id": 20,
+    "image": "https://images.unsplash.com/photo-1633431406066-27dc4345ca98?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170",
+    "title": "Skype",
+    "companyName": "Microsoft Corporation",
+    "description": "Skype keeps the world talking. Say hello with an instant message, voice or video call—all for free. Use Skype to send SMS messages to mobiles worldwide and landlines too.",
+    "size": 356,
+    "reviews": 8100000,
+    "ratingAvg": 4.2,
+    "downloads": 10000000,
+    "ratings": [
+      { "name": "1 star", "count": 810000 },
+      { "name": "2 star", "count": 1053000 },
+      { "name": "3 star", "count": 1620000 },
+      { "name": "4 star", "count": 2835000 },
+      { "name": "5 star", "count": 1782000 }
+    ]
+  },
+  {
+    "id": 21,
+    "image": "https://images.unsplash.com/photo-1659885785824-3e72856b8fef?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1332",
+    "title": "Viber Messenger",
+    "companyName": "Viber Media S.à r.l.",
+    "description": "Viber is a free messaging and calling app that allows people to connect with friends and family. Send free messages and make free calls. Share photos, stickers and GIFs.",
+    "size": 334,
+    "reviews": 4900000,
+    "ratingAvg": 4.3,
+    "downloads": 100000,
+    "ratings": [
+      { "name": "1 star", "count": 343000 },
+      { "name": "2 star", "count": 441000 },
+      { "name": "3 star", "count": 735000 },
+      { "name": "4 star", "count": 1470000 },
+      { "name": "5 star", "count": 1911000 }
+    ]
+  },
+  {
+    "id": 22,
+    "image": "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?w=300&h=300&fit=crop",
+    "title": "Clubhouse: The Social Audio App",
+    "companyName": "Alpha Exploration Co.",
+    "description": "Clubhouse is a space for casual, drop-in audio conversations—with friends and with interesting people around the world. Go online anytime and you'll find people talking about topics you care about.",
+    "size": 267,
+    "reviews": 1200000,
+    "ratingAvg": 3.7,
+    "downloads": 100000,
+    "ratings": [
+      { "name": "1 star", "count": 180000 },
+      { "name": "2 star", "count": 192000 },
+      { "name": "3 star", "count": 264000 },
+      { "name": "4 star", "count": 324000 },
+      { "name": "5 star", "count": 240000 }
+    ]
+  },
+  {
+    "id": 23,
+    "image": "https://images.unsplash.com/photo-1614680376573-df3480f0c6ff?w=300&h=300&fit=crop",
+    "title": "Signal Private Messenger",
+    "companyName": "Signal Foundation",
+    "description": "Millions of people use Signal every day for free and instantaneous communication anywhere in the world. Send and receive high-fidelity messages, participate in HD voice/video calls, and explore a growing set of new features.",
+    "size": 289,
+    "reviews": 2800000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000,
+    "ratings": [
+      { "name": "1 star", "count": 168000 },
+      { "name": "2 star", "count": 252000 },
+      { "name": "3 star", "count": 420000 },
+      { "name": "4 star", "count": 980000 },
+      { "name": "5 star", "count": 980000 }
+    ]
+  },
+  {
+    "id": 24,
+    "image": "https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?w=300&h=300&fit=crop",
+    "title": "BeReal. Your friends for real.",
+    "companyName": "BeReal",
+    "description": "BeReal is the simplest photo sharing app. Every day at a different time, everyone is notified simultaneously to capture and share a Photo in 2 Minutes. A new and unique way to discover who your friends really are in their daily life.",
+    "size": 234,
+    "reviews": 1500000,
+    "ratingAvg": 4.1,
+    "downloads": 500000,
+    "ratings": [
+      { "name": "1 star", "count": 135000 },
+      { "name": "2 star", "count": 165000 },
+      { "name": "3 star", "count": 300000 },
+      { "name": "4 star", "count": 450000 },
+      { "name": "5 star", "count": 450000 }
+    ]
+  },
+  {
+    "id": 25,
+    "image": "https://images.unsplash.com/photo-1611605698335-8b1569810432?w=300&h=300&fit=crop",
+    "title": "Likee - Short Video Community",
+    "companyName": "Likee Technology",
+    "description": "Likee is a free original short video maker and sharing platform worldwide. With magical editing tools and effects, anyone can easily create creative short videos and become stars.",
+    "size": 398,
+    "reviews": 3200000,
+    "ratingAvg": 4.3,
+    "downloads": 500000,
+    "ratings": [
+      { "name": "1 star", "count": 224000 },
+      { "name": "2 star", "count": 288000 },
+      { "name": "3 star", "count": 480000 },
+      { "name": "4 star", "count": 1120000 },
+      { "name": "5 star", "count": 1088000 }
+    ]
+  },
+  {
+    "id": 26,
+    "image": "https://images.unsplash.com/photo-1649180573784-bd23dbe5606a?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1162",
+    "title": "Quora",
+    "companyName": "Quora, Inc.",
+    "description": "Quora is a place to gain and share knowledge. It's a platform to ask questions and connect with people who contribute unique insights and quality answers. This empowers people to learn from each other.",
+    "size": 312,
+    "reviews": 2600000,
+    "ratingAvg": 4.4,
+    "downloads": 100000,
+    "ratings": [
+      { "name": "1 star", "count": 156000 },
+      { "name": "2 star", "count": 234000 },
+      { "name": "3 star", "count": 390000 },
+      { "name": "4 star", "count": 910000 },
+      { "name": "5 star", "count": 910000 }
+    ]
+  },
+  {
+    "id": 27,
+    "image": "https://plus.unsplash.com/premium_photo-1700495922474-d1e780eeae43?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170",
+    "title": "MX Player",
+    "companyName": "MX Media & Entertainment",
+    "description": "MX Player - The best way to enjoy your movies. Hardware acceleration, subtitle gestures, kids lock and much more. Stream movies, web series, TV shows, and music videos in HD quality.",
+    "size": 445,
+    "reviews": 7800000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000,
+    "ratings": [
+      { "name": "1 star", "count": 468000 },
+      { "name": "2 star", "count": 702000 },
+      { "name": "3 star", "count": 1170000 },
+      { "name": "4 star", "count": 2730000 },
+      { "name": "5 star", "count": 2730000 }
+    ]
+  },
+  {
+    "id": 28,
+    "image": "https://images.unsplash.com/photo-1598899134739-24c46f58b8c0?w=300&h=300&fit=crop",
+    "title": "IMDb: Movies & TV Shows",
+    "companyName": "IMDb",
+    "description": "IMDb is the world's most popular and authoritative source for movie, TV and celebrity content. Find ratings and reviews, explore by genre, and watch trailers. Get personalized recommendations.",
+    "size": 323,
+    "reviews": 3400000,
+    "ratingAvg": 4.6,
+    "downloads": 1000000,
+    "ratings": [
+      { "name": "1 star", "count": 170000 },
+      { "name": "2 star", "count": 272000 },
+      { "name": "3 star", "count": 510000 },
+      { "name": "4 star", "count": 1190000 },
+      { "name": "5 star", "count": 1258000 }
+    ]
+  }
+]
