@@ -4,7 +4,7 @@ A modern, responsive web application for browsing and managing apps with a beaut
 
 ## Live Demo
 
-🔗 [View Live Demo](your-deployed-link-here)
+🔗 [View Live Demo](https://superlative-melba-b12f70.netlify.app/)
 
 ## Features
 

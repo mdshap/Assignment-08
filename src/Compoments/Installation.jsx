@@ -11,7 +11,7 @@ const Installation = () => {
   const [loading, setLoading] = useState(true);
   const [apps, setApps] = useState([]);
   const [installedApps, setInstalledApps] = useState([]);
-  const [sortOrder, setSortOrder] = useState("size");
+  const [sortOrder, setSortOrder] = useState("");
 
   const loadInstalledApps = (allApps) => {
     const ids = getInstalledApps();
@@ -57,6 +57,7 @@ const Installation = () => {
   });
 
   const formatDownloads = (num) => {
+    if (num >= 1000000000) return `${(num / 1000000000).toFixed(0)}B`;
     if (num >= 1000000) return `${(num / 1000000).toFixed(0)}M`;
     if (num >= 1000) return `${(num / 1000).toFixed(0)}K`;
     return num;
@@ -125,11 +126,15 @@ const Installation = () => {
                     <h3 className="font-semibold text-gray-800">{app.title}</h3>
                     <div className="flex items-center space-x-4 text-sm mt-1">
                       <div className="flex items-center space-x-1 text-green-600">
-                        <span><img src={iconDownloads} className="w-4" alt="" /></span>
+                        <span>
+                          <img src={iconDownloads} className="w-4" alt="" />
+                        </span>
                         <span>{formatDownloads(app.downloads)}</span>
                       </div>
                       <div className="flex items-center space-x-1 text-orange-500">
-                        <span><img src={starIcon} className="w-4" alt="" /></span>
+                        <span>
+                          <img src={starIcon} className="w-4" alt="" />
+                        </span>
                         <span>{app.ratingAvg}</span>
                       </div>
                       <span className="text-gray-500">{app.size} MB</span>
