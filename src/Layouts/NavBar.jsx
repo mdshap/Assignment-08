@@ -14,7 +14,8 @@ const Navbar = () => {
     <nav className="bg-white shadow-sm sticky top-0 z-50">
       <div className="w-full px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16">
-          <div
+          <a
+            href="/"
             className="flex items-center cursor-pointer z-50"
             onClick={() => navigate("/")}>
             <img
@@ -25,7 +26,7 @@ const Navbar = () => {
             <span className="ml-2 text-xl font-bold text-[#632EE3]">
               HERO.IO
             </span>
-          </div>
+          </a>
 
           <div className="hidden md:flex absolute left-1/2 transform -translate-x-1/2 items-center space-x-8 text-gray-700">
             <NavLink to="/" className="">
@@ -69,7 +70,6 @@ const Navbar = () => {
               }`}></span>
           </button>
         </div>
-
 
         <div
           className={`md:hidden overflow-hidden text-gray-700 transition-all duration-300 ease-in-out ${
