@@ -1,39 +1,44 @@
-import { StrictMode } from 'react'
-import { createRoot } from 'react-dom/client'
-import './index.css'
-import { createBrowserRouter, RouterProvider } from 'react-router'
-import Home from './Pages/Home'
-import Root from './Layouts/Root'
-import Apps from './Compoments/Apps'
-import Installation from './Compoments/Installation'
-import AppDetails from './Compoments/AppDetails'
+import { StrictMode } from "react";
+import { createRoot } from "react-dom/client";
+import "./index.css";
+import { createBrowserRouter, RouterProvider } from "react-router";
+import Home from "./Pages/Home";
+import Root from "./Layouts/Root";
+import Apps from "./Compoments/Apps";
+import Installation from "./Compoments/Installation";
+import AppDetails from "./Compoments/AppDetails";
+import NotFound from "./Compoments/NotFound";
 
 const router = createBrowserRouter([
   {
-    path: '/',
+    path: "/",
     Component: Root,
     children: [
       {
         index: true,
-        Component: Home
+        Component: Home,
       },
       {
-        path: '/apps',
-        Component: Apps
+        path: "/apps",
+        Component: Apps,
       },
       {
-        path: '/app/:id',
-        Component: AppDetails
+        path: "/app/:id",
+        Component: AppDetails,
       },
       {
-        path: '/installation',
-        Component: Installation
-      }
-    ]
-  }
-  ])
-createRoot(document.getElementById('root')).render(
- <RouterProvider router={router}>
-  <Root></Root>
- </RouterProvider> 
-)
+        path: "/installation",
+        Component: Installation,
+      },
+      {
+        path: "*",
+        Component: NotFound,
+      },
+    ],
+  },
+]);
+createRoot(document.getElementById("root")).render(
+  <RouterProvider router={router}>
+    <Root></Root>
+  </RouterProvider>
+);

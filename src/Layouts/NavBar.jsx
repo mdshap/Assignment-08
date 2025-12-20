@@ -42,7 +42,7 @@ const Navbar = () => {
           </div>
 
           <Link
-            href="https://github.com/mdshap"
+            to="https://github.com/mdshap"
             target="_blank"
             rel="noopener noreferrer"
             className="hidden md:flex bg-purple-600 text-white px-4 py-2 rounded-lg hover:bg-purple-700 transition-colors items-center space-x-2">

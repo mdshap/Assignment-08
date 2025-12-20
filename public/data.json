@@ -8,7 +8,7 @@
     "size": 412,
     "reviews": 8500000,
     "ratingAvg": 4.5,
-    "downloads": 1000000,
+    "downloads": 500000000,
     "ratings": [
       { "name": "1 star", "count": 185000 },
       { "name": "2 star", "count": 425000 },
@@ -26,7 +26,7 @@
     "size": 398,
     "reviews": 12000000,
     "ratingAvg": 3.9,
-    "downloads": 50000000,
+    "downloads": 5000000000,
     "ratings": [
       { "name": "1 star", "count": 1800000 },
       { "name": "2 star", "count": 2400000 },
@@ -44,7 +44,7 @@
     "size": 367,
     "reviews": 15000000,
     "ratingAvg": 4.4,
-    "downloads": 50000000,
+    "downloads": 5000000000,
     "ratings": [
       { "name": "1 star", "count": 900000 },
       { "name": "2 star", "count": 1350000 },
@@ -62,7 +62,7 @@
     "size": 445,
     "reviews": 18000000,
     "ratingAvg": 4.6,
-    "downloads": 3000000,
+    "downloads": 3000000000,
     "ratings": [
       { "name": "1 star", "count": 720000 },
       { "name": "2 star", "count": 1080000 },
@@ -80,7 +80,7 @@
     "size": 489,
     "reviews": 22000000,
     "ratingAvg": 4.2,
-    "downloads": 100000000,
+    "downloads": 10000000000,
     "ratings": [
       { "name": "1 star", "count": 2200000 },
       { "name": "2 star", "count": 2860000 },
@@ -98,7 +98,7 @@
     "size": 423,
     "reviews": 9500000,
     "ratingAvg": 4.3,
-    "downloads": 1000000,
+    "downloads": 1000000000,
     "ratings": [
       { "name": "1 star", "count": 950000 },
       { "name": "2 star", "count": 1235000 },
@@ -116,7 +116,7 @@
     "size": 378,
     "reviews": 11000000,
     "ratingAvg": 4.5,
-    "downloads": 700000,
+    "downloads": 700000000,
     "ratings": [
       { "name": "1 star", "count": 660000 },
       { "name": "2 star", "count": 990000 },
@@ -134,7 +134,7 @@
     "size": 345,
     "reviews": 16000000,
     "ratingAvg": 4.3,
-    "downloads": 50000000,
+    "downloads": 5000000000,
     "ratings": [
       { "name": "1 star", "count": 1600000 },
       { "name": "2 star", "count": 1920000 },
@@ -152,7 +152,7 @@
     "size": 298,
     "reviews": 8900000,
     "ratingAvg": 4.6,
-    "downloads": 1000000,
+    "downloads": 1000000000,
     "ratings": [
       { "name": "1 star", "count": 445000 },
       { "name": "2 star", "count": 712000 },
@@ -170,7 +170,7 @@
     "size": 334,
     "reviews": 7200000,
     "ratingAvg": 3.8,
-    "downloads": 500000,
+    "downloads": 500000000,
     "ratings": [
       { "name": "1 star", "count": 1152000 },
       { "name": "2 star", "count": 1440000 },
@@ -188,7 +188,7 @@
     "size": 412,
     "reviews": 6800000,
     "ratingAvg": 4.4,
-    "downloads": 500000,
+    "downloads": 500000000,
     "ratings": [
       { "name": "1 star", "count": 408000 },
       { "name": "2 star", "count": 680000 },
@@ -206,7 +206,7 @@
     "size": 289,
     "reviews": 5600000,
     "ratingAvg": 4.5,
-    "downloads": 50000,
+    "downloads": 500000000,
     "ratings": [
       { "name": "1 star", "count": 336000 },
       { "name": "2 star", "count": 504000 },
@@ -224,7 +224,7 @@
     "size": 456,
     "reviews": 4200000,
     "ratingAvg": 4.3,
-    "downloads": 90000,
+    "downloads": 100000000,
     "ratings": [
       { "name": "1 star", "count": 294000 },
       { "name": "2 star", "count": 378000 },
@@ -242,7 +242,7 @@
     "size": 367,
     "reviews": 3800000,
     "ratingAvg": 4.2,
-    "downloads": 10000,
+    "downloads": 100000000,
     "ratings": [
       { "name": "1 star", "count": 380000 },
       { "name": "2 star", "count": 456000 },
@@ -260,7 +260,7 @@
     "size": 401,
     "reviews": 4500000,
     "ratingAvg": 4.4,
-    "downloads": 50000,
+    "downloads": 100000000,
     "ratings": [
       { "name": "1 star", "count": 270000 },
       { "name": "2 star", "count": 405000 },
@@ -278,7 +278,7 @@
     "size": 312,
     "reviews": 9200000,
     "ratingAvg": 4.1,
-    "downloads": 50000000,
+    "downloads": 1000000000,
     "ratings": [
       { "name": "1 star", "count": 1380000 },
       { "name": "2 star", "count": 1656000 },
@@ -296,7 +296,7 @@
     "size": 278,
     "reviews": 2100000,
     "ratingAvg": 4.0,
-    "downloads": 100000000,
+    "downloads": 200000000,
     "ratings": [
       { "name": "1 star", "count": 252000 },
       { "name": "2 star", "count": 294000 },
@@ -314,7 +314,7 @@
     "size": 423,
     "reviews": 5800000,
     "ratingAvg": 4.1,
-    "downloads": 100000,
+    "downloads": 1000000000,
     "ratings": [
       { "name": "1 star", "count": 696000 },
       { "name": "2 star", "count": 812000 },
@@ -332,7 +332,7 @@
     "size": 389,
     "reviews": 6700000,
     "ratingAvg": 4.4,
-    "downloads": 500000,
+    "downloads": 500000000,
     "ratings": [
       { "name": "1 star", "count": 402000 },
       { "name": "2 star", "count": 603000 },
@@ -350,7 +350,7 @@
     "size": 356,
     "reviews": 8100000,
     "ratingAvg": 4.2,
-    "downloads": 10000000,
+    "downloads": 1000000000,
     "ratings": [
       { "name": "1 star", "count": 810000 },
       { "name": "2 star", "count": 1053000 },
@@ -368,7 +368,7 @@
     "size": 334,
     "reviews": 4900000,
     "ratingAvg": 4.3,
-    "downloads": 100000,
+    "downloads": 1000000000,
     "ratings": [
       { "name": "1 star", "count": 343000 },
       { "name": "2 star", "count": 441000 },
@@ -386,7 +386,7 @@
     "size": 267,
     "reviews": 1200000,
     "ratingAvg": 3.7,
-    "downloads": 100000,
+    "downloads": 50000000,
     "ratings": [
       { "name": "1 star", "count": 180000 },
       { "name": "2 star", "count": 192000 },
@@ -404,7 +404,7 @@
     "size": 289,
     "reviews": 2800000,
     "ratingAvg": 4.5,
-    "downloads": 1000000,
+    "downloads": 100000000,
     "ratings": [
       { "name": "1 star", "count": 168000 },
       { "name": "2 star", "count": 252000 },
@@ -422,7 +422,7 @@
     "size": 234,
     "reviews": 1500000,
     "ratingAvg": 4.1,
-    "downloads": 500000,
+    "downloads": 50000000,
     "ratings": [
       { "name": "1 star", "count": 135000 },
       { "name": "2 star", "count": 165000 },
@@ -440,67 +440,13 @@
     "size": 398,
     "reviews": 3200000,
     "ratingAvg": 4.3,
-    "downloads": 500000,
+    "downloads": 500000000,
     "ratings": [
       { "name": "1 star", "count": 224000 },
       { "name": "2 star", "count": 288000 },
       { "name": "3 star", "count": 480000 },
       { "name": "4 star", "count": 1120000 },
       { "name": "5 star", "count": 1088000 }
-    ]
-  },
-  {
-    "id": 26,
-    "image": "https://images.unsplash.com/photo-1649180573784-bd23dbe5606a?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1162",
-    "title": "Quora",
-    "companyName": "Quora, Inc.",
-    "description": "Quora is a place to gain and share knowledge. It's a platform to ask questions and connect with people who contribute unique insights and quality answers. This empowers people to learn from each other.",
-    "size": 312,
-    "reviews": 2600000,
-    "ratingAvg": 4.4,
-    "downloads": 100000,
-    "ratings": [
-      { "name": "1 star", "count": 156000 },
-      { "name": "2 star", "count": 234000 },
-      { "name": "3 star", "count": 390000 },
-      { "name": "4 star", "count": 910000 },
-      { "name": "5 star", "count": 910000 }
-    ]
-  },
-  {
-    "id": 27,
-    "image": "https://plus.unsplash.com/premium_photo-1700495922474-d1e780eeae43?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170",
-    "title": "MX Player",
-    "companyName": "MX Media & Entertainment",
-    "description": "MX Player - The best way to enjoy your movies. Hardware acceleration, subtitle gestures, kids lock and much more. Stream movies, web series, TV shows, and music videos in HD quality.",
-    "size": 445,
-    "reviews": 7800000,
-    "ratingAvg": 4.5,
-    "downloads": 1000000,
-    "ratings": [
-      { "name": "1 star", "count": 468000 },
-      { "name": "2 star", "count": 702000 },
-      { "name": "3 star", "count": 1170000 },
-      { "name": "4 star", "count": 2730000 },
-      { "name": "5 star", "count": 2730000 }
-    ]
-  },
-  {
-    "id": 28,
-    "image": "https://images.unsplash.com/photo-1598899134739-24c46f58b8c0?w=300&h=300&fit=crop",
-    "title": "IMDb: Movies & TV Shows",
-    "companyName": "IMDb",
-    "description": "IMDb is the world's most popular and authoritative source for movie, TV and celebrity content. Find ratings and reviews, explore by genre, and watch trailers. Get personalized recommendations.",
-    "size": 323,
-    "reviews": 3400000,
-    "ratingAvg": 4.6,
-    "downloads": 1000000,
-    "ratings": [
-      { "name": "1 star", "count": 170000 },
-      { "name": "2 star", "count": 272000 },
-      { "name": "3 star", "count": 510000 },
-      { "name": "4 star", "count": 1190000 },
-      { "name": "5 star", "count": 1258000 }
     ]
   }
 ]
